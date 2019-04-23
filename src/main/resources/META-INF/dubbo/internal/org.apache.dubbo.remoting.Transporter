@@ -1,0 +1,1 @@
+http2=org.apache.dubbo.remoting.transport.netty4.http2.NettyHttp2Transporter
